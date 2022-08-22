@@ -40,6 +40,12 @@ ul {
 .weather-info {
   margin-bottom: 20px;
 }
+.weather-temperature img {
+  margin-right: 5px;
+  height: 64px;
+  width: 64px;
+}
+
 .weather-temperature strong {
   font-size: 48px;
   line-height: 1;
