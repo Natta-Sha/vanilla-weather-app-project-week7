@@ -53,6 +53,14 @@ ul {
 
   font-weight: 400;
 }
+.weather-temperature .active {
+  color: #70757a;
+
+  cursor: default;
+}
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
 .weather-temperature .units {
   position: relative;
   font-size: 16px;
